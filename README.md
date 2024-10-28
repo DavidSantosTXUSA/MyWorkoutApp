@@ -1,6 +1,6 @@
 # WorkoutApp
 
-An iOS app designed to help users track and manage their workouts effortlessly. Built with Swift in Xcode MyWorkoutApp.
+An iOS app designed to help users track and manage their workouts effortlessly. Built with Swift in Xcode!
 
 ## Features
 - **Track Workouts**: Easily log your workout sessions, track progress, and delete sessions from the history.
